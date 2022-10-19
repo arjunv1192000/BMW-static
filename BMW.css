@@ -1,0 +1,531 @@
+.outer_box{
+    width: 100%;
+    height: 685px; 
+    background-image:url("./images/cq5dam.resized.img.1680.large.time1665570802347.jpg") ;
+    background-size: contain;
+    background-repeat: no-repeat;  
+
+}
+.header{
+    width:80%;
+    height: 100px;
+    margin-left: 120px;
+    border-bottom: 2px solid white;
+}
+.navbutton{
+    width: 100px;
+    height: 90px;
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(249, 246, 246);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.navb{
+    width: 150px;
+    height: 90px;
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(249, 246, 246);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headlogo{
+    width: 250px;
+    height: 50px;
+    background-color:transparent;
+    margin-top: -70px;
+    margin-left: 950px; 
+    background-size: contain;
+
+
+
+}
+.logoss{
+    width: 45px;
+    height: 30px; 
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.button1{
+
+    width: 300px;
+    height:200px;
+    background-color:transparent;
+    margin-top: 40px;
+    margin-left: 80px;
+    }
+    .bmwm{
+    font-size:30pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .blue{
+        width: 270px;
+        height: 50px;
+        margin-top:20px;
+        background-color: rgb(0, 132, 255);
+        color: white;
+        align-self: center;
+        font-size: large;
+        border: none;
+    }
+    .outer2{
+        width: 100%;
+        height: 330px;
+        position: relative;
+        margin-left: 5px;
+    
+    
+    }
+    .inner1{
+        width: 50%;
+        height: 330px;
+        background-image:url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/i-series/i4/2021/ix-and-i4.png/jcr:content/renditions/cq5dam.resized.img.1680.large.time1654668670870.png") ;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        border: 5px solid white;
+        
+    
+        
+
+    }
+    .inner2{
+        width: 49%;
+        height: 330px;
+        background-image:url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/1680.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1652337470674.jpg") ;
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        border: 5px solid white;
+        right: 5px;
+     
+
+    }
+    .outer3{
+        width: 80%;
+        height: 80px;
+        border-bottom: 1px solid rgb(93, 91, 91);
+        margin: auto;
+    }
+    .outer4{
+        width: 80%;
+        height: 80px;
+        border-bottom: 1px solid rgb(119, 118, 118);
+        margin: auto;
+    }
+    .type{
+        font-size: large;
+        float:left;
+        padding-left: 40px;
+        padding-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .type2{
+        font-size: large;
+        float:left;
+        padding-left: 40px;
+        padding-top: 20px;
+    }
+    .iX{
+        font-size: x-large;
+        color: #ebeff5;
+        padding-left: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .know{
+        width: 300px;
+        height: 50px;
+        background-color:transparent;
+        text-align: center;
+        color: #ebeff5;
+        margin-left: 20px;
+        border: 3px solid white;
+    }
+    .discover{
+        width: 60%;
+        height: 330px;
+        margin: auto;
+        background-image:url("./images/Screenshot\ 2022-10-17\ 152444.png") ;
+        background-repeat: no-repeat;
+    
+    }
+    .outer5{
+        width: 100%;
+        height: 200px;
+    
+    }
+    .bt{
+        width: 300px;
+        height: 70px;
+        text-align: center;
+        background-color: rgb(0, 166, 255);
+        color: #ebeff5;
+        font-size: x-large;
+        font-family: Arial, Helvetica, sans-serif;
+        border: none;
+        margin-left: 600px;
+        margin-top: 30px;
+    
+    }
+    .TXT{
+        margin-left: 70px;
+        margin-top: 40px;
+        font-size: x-large;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .outercard{
+        width: 100%;
+        height: 800px;
+        margin: auto;
+    
+        
+
+    }
+    .card{
+        width: 400px;
+        height: 700px;
+        margin-left:60px;
+        margin-right: 30px;
+        float: left;
+        
+    }
+    .carimg1{
+        width: 450px;
+        height: 300px;
+        background-image: url(./images/cardimg1.png);
+        background-size:contain;
+        background-repeat:no-repeat;
+        margin: auto;
+        
+    }
+    .carimg2{
+        width: 400px;
+        height: 300px;
+        background-image: url(./images/cardimg2.png);
+        background-size:contain;
+        background-repeat: no-repeat;
+        margin: auto;
+        
+    }
+    .carimg3{
+        width: 400px;
+        height: 300px;
+        background-image: url(./images/cardimg3.png);
+        background-size:contain;
+        background-repeat:no-repeat;
+        margin: auto;
+        
+    }
+    .cardbut{
+        width: 400px;
+        height: 60px;
+        font-size: x-large;
+        text-align: center;
+        background-color:transparent;
+        color: #0a0a0a;
+        font-size: x-large;
+        border: 2px solid rgb(8, 8, 8);
+        margin-top: 30px;
+        margin: auto
+
+    }
+    .font1{
+        margin-left: 5px;
+        margin-top: 100px;
+        
+        
+    }
+    .outer6{
+        width: 100%;
+        height: 1000px;
+        margin: auto;
+        
+    }
+    .inner3{
+        width:500px;
+        height:500px;
+        float: left;
+        border: 1px solid grey;
+        margin-left: 150px;
+        margin-top: 75px;
+    }
+    .img5{
+        width: 600px;
+        height:250px;
+        margin-top:25px;
+        margin-left: 25px;
+        background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/Images/Topics/BPS/BPS-582x327.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+        
+    
+
+    }
+    .img10{
+        width: 600px;
+        height:250px;
+        margin-top:25px;
+        margin-left: 25px;
+        background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/585x329.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+       
+    
+
+    }
+    .img11{
+        width: 600px;
+        height:250px;
+        margin-top:25px;
+        margin-left: 25px;
+        background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/fs-homepage-890x500.jpg/jcr:content/renditions/cq5dam.resized.img.585.low.time1583762832994.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+        
+        
+    
+
+    }
+    .img12{
+        width: 600px;
+        height:250px;
+        margin-top:25px;
+        margin-left: 25px;
+        background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/homepage-teasers/BEC%20585x328.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+        
+        
+    
+
+    }
+    .TXT2{
+        margin-left: 15px;
+    }
+    .txt3{
+        margin-left: 15px;
+        margin-right: 15px;
+
+    }
+    .txt4{
+        margin-left: 15px;
+        font-style: bold;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .outer7{
+        width: 100%;
+        height: 100px;
+        margin-top: 200px;
+
+    }
+    .txt5{
+        margin-left: 75px;
+    }
+    .outer8{
+        width: 90%;
+        height: 100px;
+        margin: auto;
+        
+    }
+    .btn2{
+        width:200px;
+        height: 100px;
+        background-color:transparent;
+        float: left;
+        margin-left: 20px;
+        font-size:large;
+        color: rgb(95, 92, 92);
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 2px solid gray;
+
+    }
+    .outer9{
+        width: 86%;
+        height: 400px;
+        margin-top: 20px;
+        margin-left: 100px;
+    
+    }
+    .img6{
+        width: 50%;
+        height: 350px;
+        background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/teaserimages/homapage-small-teasers/Accessories%20Config.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        float: left;
+
+    }
+    .inner4{
+        width: 49%;
+        height: 300px;
+        margin-left: 50%;
+        
+    }
+    .outer10{
+        width: 100%;
+        height: 200px;
+        margin-top: 100px;
+        
+
+    }
+    .btn3{
+        width: 240px; 
+        height: 150px;
+        background-color: rgba(131, 128, 124, 0.608);
+        background-image:url(./images/buyonline.png);
+        float: left;
+        margin-left: 10px;
+        border: none;
+        font-size: large;
+        font-style: oblique;
+        padding-top: 100px;
+        padding-left: 5px;
+    
+    }
+    .btn4{
+        width: 240px; 
+        height: 150px;
+        background-color: rgba(131, 128, 124, 0.608);
+        background-image:url(./images/booktestdrive.png);
+        float: left;
+        margin-left: 10px;
+        border: none;
+        font-size: large;
+        font-style: oblique;
+        padding-top: 100px;
+        padding-left: 5px;
+    
+    }
+    .btn5{
+        width: 240px; 
+        height: 150px;
+        background-color: rgba(131, 128, 124, 0.608);
+        background-image:url(./images/finddealer.png);
+        float: left;
+        margin-left: 10px;
+        border: none;
+        font-size: large;
+        font-style: oblique;
+        padding-top: 100px;
+        padding-left: 5px;
+    
+    }
+    .btn6{
+        width: 240px; 
+        height: 150px;
+        background-color: rgba(131, 128, 124, 0.608);
+        background-image:url(./images/offer3.png);
+        float: left;
+        margin-left: 10px;
+        border: none;
+        font-size: large;
+        font-style: oblique;
+        padding-top: 100px;
+        padding-left: 5px;
+    
+    }
+    .btn7{
+        width: 240px; 
+        height: 150px;
+        background-color: rgba(131, 128, 124, 0.608);
+        background-image:url(./images/comparission.png);
+        float: left;
+        margin-left: 10px;
+        border: none;
+        font-size: large;
+        font-style: oblique;
+        padding-top: 100px;
+        padding-left: 5px;
+    
+    }
+    .footer{
+        width: 100%;
+        height:400px;
+        background-color:#e6e6e6;
+        margin-top:200px;
+    }
+    .innerfoot{
+        width: 80%;
+        height: 200px;
+        background-color: transparent;
+        border-bottom: 2px solid rgba(93, 98, 93, 0.303);
+        margin-top: 200px;
+        margin-left: 120px;
+    }
+    .footlogo{
+        width: 400px;
+        height: 150px;
+        background-image: url(./images/footer.png);
+        padding-top: 30px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin-left: 800px;
+    }
+    .foot2{
+        width: 150px;
+        height: 200px;
+        float: left;
+        margin-left: 160px;
+
+    }
+    .lastfoot{
+        width: 100%;
+        height: 80px;
+        
+    }
+    .txt10{
+        font-family: Arial, Helvetica, sans-serif;
+        align-items: center;
+        color: #e6e6e6;
+    }
+    .logo{
+        width: 40px;
+        height: 40px;
+        background-image: url("https://www.bmw.in/etc.clientlibs/ds2-webcomponents/clientlibs/clientlib/resources/img/BMW_White_Logo.svg");
+        margin-left: 1250px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        border: none;
+        background-color: transparent;
+        margin-top:-120px;
+        
+        
+    }
+    .TXT11{
+        font-size: large;
+        color: blue;
+        margin-left: 900px;
+        margin-top: -30px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .TXT12{
+        font-size: medium;
+        color: #0a0a0a;
+        margin-left: 200px;
+        margin-top: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .text{
+        margin-left: 1000px;
+        margin-top: 30px;
+        font-size:large;
+        color: #e6e6e6;
+    }
+    
