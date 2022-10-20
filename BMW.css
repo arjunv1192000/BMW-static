@@ -19,7 +19,7 @@
     border-color: transparent;
     color: rgb(249, 246, 246);
     font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 
 }
 .navb{
@@ -29,7 +29,7 @@
     border-color: transparent;
     color: rgb(249, 246, 246);
     font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 }
 .headlogo{
     width: 250px;
@@ -60,7 +60,7 @@
     .bmwm{
     font-size:30pt;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 
     }
     .blue{
@@ -70,8 +70,10 @@
         background-color: rgb(0, 132, 255);
         color: white;
         align-self: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         font-size: large;
         border: none;
+        cursor: pointer;
     }
     .outer2{
         width: 100%;
@@ -123,20 +125,23 @@
         float:left;
         padding-left: 40px;
         padding-top: 20px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+        cursor: pointer;
 
     }
     .type2{
         font-size: large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         float:left;
         padding-left: 40px;
         padding-top: 20px;
+        cursor: pointer;
     }
     .iX{
         font-size: x-large;
         color: #ebeff5;
         padding-left: 30px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 
     }
     .know{
@@ -144,9 +149,11 @@
         height: 50px;
         background-color:transparent;
         text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         color: #ebeff5;
         margin-left: 20px;
         border: 3px solid white;
+        cursor: pointer;
     }
     .discover{
         width: 60%;
@@ -168,17 +175,18 @@
         background-color: rgb(0, 166, 255);
         color: #ebeff5;
         font-size: x-large;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         border: none;
         margin-left: 600px;
         margin-top: 30px;
+        cursor: pointer;
     
     }
     .TXT{
         margin-left: 70px;
         margin-top: 40px;
         font-size: x-large;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
 
     }
     .outercard{
@@ -234,13 +242,14 @@
         font-size: x-large;
         border: 2px solid rgb(8, 8, 8);
         margin-top: 30px;
-        margin: auto
+        margin: auto;
+        cursor: pointer;
 
     }
     .font1{
         margin-left: 5px;
         margin-top: 100px;
-        
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         
     }
     .outer6{
@@ -313,16 +322,18 @@
     }
     .TXT2{
         margin-left: 15px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
     .txt3{
         margin-left: 15px;
         margin-right: 15px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
     }
     .txt4{
         margin-left: 15px;
         font-style: bold;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
     }
     .outer7{
@@ -333,6 +344,7 @@
     }
     .txt5{
         margin-left: 75px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
     .outer8{
         width: 90%;
@@ -352,6 +364,16 @@
         border-left: none;
         border-right: none;
         border-bottom: 2px solid gray;
+        cursor: pointer;
+        
+
+
+    }
+    .btn2 :hover{
+        color:rgb(11, 10, 10);
+        border-bottom: 3px solid rgb(8, 7, 7);
+        cursor: pointer;
+        
 
     }
     .outer9{
@@ -374,6 +396,7 @@
         width: 49%;
         height: 300px;
         margin-left: 50%;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         
     }
     .outer10{
@@ -395,6 +418,7 @@
         font-style: oblique;
         padding-top: 100px;
         padding-left: 5px;
+        cursor: pointer;
     
     }
     .btn4{
@@ -406,9 +430,11 @@
         margin-left: 10px;
         border: none;
         font-size: large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         font-style: oblique;
         padding-top: 100px;
         padding-left: 5px;
+        cursor: pointer;
     
     }
     .btn5{
@@ -420,9 +446,11 @@
         margin-left: 10px;
         border: none;
         font-size: large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         font-style: oblique;
         padding-top: 100px;
         padding-left: 5px;
+        cursor: pointer;
     
     }
     .btn6{
@@ -434,9 +462,11 @@
         margin-left: 10px;
         border: none;
         font-size: large;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         font-style: oblique;
         padding-top: 100px;
         padding-left: 5px;
+        cursor: pointer;
     
     }
     .btn7{
@@ -447,10 +477,12 @@
         float: left;
         margin-left: 10px;
         border: none;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
         font-size: large;
         font-style: oblique;
         padding-top: 100px;
         padding-left: 5px;
+        cursor: pointer;
     
     }
     .footer{
@@ -470,11 +502,9 @@
     .footlogo{
         width: 400px;
         height: 150px;
-        background-image: url(./images/footer.png);
         padding-top: 30px;
-        background-size: contain;
-        background-repeat: no-repeat;
-        margin-left: 800px;
+        margin-left: 900px;
+        
     }
     .foot2{
         width: 150px;
@@ -527,5 +557,29 @@
         margin-top: 30px;
         font-size:large;
         color: #e6e6e6;
+    }
+    .fotlo{
+        width: 40px;
+        height:40px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        float: left;
+        margin-left: 5px;
+        margin-top: 10px;
+        cursor: pointer;
+    }
+    .txt26{
+        width: 150px;
+        height: 30px;
+        color: grey;
+        text-align: start;
+        margin-top: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+    
+    }
+    .txt30{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
     }
     
